@@ -1,0 +1,16 @@
+id: Qmaj2jFuwmWJ7H7EooFBdaz7NNB6SfDz1h9oqk3MkpQB2K
+description: ""
+tags: []
+trigger:
+    type: https
+    method: GET
+    paths:
+        - /asdfasasdfasdf
+domains:
+    - GeneratedDomain
+includes:
+    - /testApp/functions/tafshit.go
+execution:
+    timeout: 10s
+    memory: 10MB
+    call: ping
