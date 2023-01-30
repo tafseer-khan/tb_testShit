@@ -1,0 +1,17 @@
+id: QmPHzHkehroSJUJcvNd8MFn4RBgJeYBTGNabKrkLiK9xZY
+description: ""
+tags: []
+trigger:
+    type: https
+    method: GET
+    paths:
+        - /
+domains:
+    - GeneratedDomain
+libraries:
+    - asdfasdf
+includes: []
+execution:
+    timeout: 10s
+    memory: 10MB
+    call: asdf

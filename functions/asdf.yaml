@@ -1,0 +1,13 @@
+id: QmXiK7FCnuS2uqX2ScpGaPFQzszJ6oVWwHfpKXwFH7R3Gb
+description: ""
+tags: []
+trigger:
+    type: pub-sub
+    channel: asdf
+    local: false
+includes:
+    - /functions/asdf.go
+execution:
+    timeout: 10s
+    memory: 10MB
+    call: asdfasdf
