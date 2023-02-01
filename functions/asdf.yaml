@@ -1,5 +1,5 @@
 id: QmXiK7FCnuS2uqX2ScpGaPFQzszJ6oVWwHfpKXwFH7R3Gb
-description: ""
+description: Returns a socket url to the matched channel
 tags: []
 trigger:
     type: pub-sub

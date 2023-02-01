@@ -1,5 +1,5 @@
 id: Qmaj2jFuwmWJ7H7EooFBdaz7NNB6SfDz1h9oqk3MkpQB2K
-description: ""
+description: Returns pong to a ping over http
 tags: []
 trigger:
     type: https
