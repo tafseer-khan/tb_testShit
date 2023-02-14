@@ -1,6 +1,7 @@
 id: QmPHzHkehroSJUJcvNd8MFn4RBgJeYBTGNabKrkLiK9xZY
 description: ""
 tags: []
+source: libraries/asdfasdf
 trigger:
     type: https
     method: GET
@@ -8,9 +9,6 @@ trigger:
         - /
 domains:
     - GeneratedDomain
-libraries:
-    - asdfasdf
-includes: []
 execution:
     timeout: 10s
     memory: 10MB
